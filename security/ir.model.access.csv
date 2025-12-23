@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+acl-key-value,acl-key-value,model_account_move_key_value,base.group_user,1,1,1,1
